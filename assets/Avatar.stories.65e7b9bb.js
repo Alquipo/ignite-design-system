@@ -1,0 +1,2 @@
+import{A as t}from"./index.0079db0c.js";import"./index.0b5f40f5.js";import"./iframe.5bff1ff3.js";import"./index.db7cf0b7.js";import"./jsx-runtime.186ed079.js";const p={title:"Data display/Avatar",component:t,args:{src:"https://github.com/alquipo.png",alt:"Diego Fernandes"},argTypes:{src:{control:{type:"text"}}}},e={},c={args:{src:void 0}},m=["Primary","WithFallback"];export{e as Primary,c as WithFallback,m as __namedExportsOrder,p as default};
+//# sourceMappingURL=Avatar.stories.65e7b9bb.js.map
